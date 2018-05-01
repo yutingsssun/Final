@@ -1,6 +1,6 @@
 body {
     padding: 0;
-    font-family: helvetica, arial, sans-serif;
+    font-family: Lato;
     overflow: hidden;
 }
 
@@ -8,15 +8,27 @@ body {
   position: absolute;
   height: 50px;
   width: 100%;
-  background-color: #444;
-  color: #fff;
+  background-color: #242424;
+  left: 0px;
+  top: 0px
+}
+
+.header h1 {
   position: absolute;
-  top: 0;
+  left: 30px;
+  top: 0px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 20px;
+  font-size: 24px;
+  letter-spacing: 0.2em;
+  color: #BDE8F6
 }
 
 .map {
   position: absolute;
-  left: 440px;
+  left: 400px;
   right: 0;
   bottom: 0;
   top: 50px;
@@ -31,6 +43,7 @@ body {
   padding: 20px;
   overflow: hidden;
   overflow-y: auto;
+  background-color: #353A49;
 }
 
 #toggle-sidebar {
