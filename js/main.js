@@ -16,6 +16,38 @@ var heatDataset = "https://raw.githubusercontent.com/YixiaoSun/Final/master/data
 
 var featureGroup;
 
+var myStyle = function(feature) {
+    switch (feature.properties.LEVEL){
+      case 1:
+      return {fillColor:'#E9F7EF',
+              color:'white',
+              weight:'2px',
+              fillOpacity:'0.4'};
+      case 2:
+      return {fillColor:'#A9DFBF',
+               color:'white',
+               weight:'2px',
+               fillOpacity:'0.4'};
+      case 3:
+      return {fillColor:'#52BE80',
+               color:'white',
+               weight:'2px',
+               fillOpacity:'0.4'};
+      case 4:
+      return {fillColor:'#1E8449',
+               color:'white',
+               weight:'2px',
+               fillOpacity:'0.4'};
+      case 5:
+      return {fillColor:'#145A32',
+               color:'white',
+               weight:'2px',
+               fillOpacity:'0.4'};
+      }
+    };
+
+
+
 function getColor(d) {
     return d > 2.77 ? '#800026' :
            d > 0  ? '#BD0026' :
