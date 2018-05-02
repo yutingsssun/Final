@@ -20,8 +20,8 @@ body {
   font-family: Lato;
   font-style: normal;
   font-weight: bold;
-  line-height: 20px;
-  font-size: 24px;
+  line-height: 12px;
+  font-size: 28px;
   letter-spacing: 0.2em;
   color: #BDE8F6
 }
@@ -79,13 +79,13 @@ body {
 .sidebar .heatmap .btn {
   position: absolute;
   width: 240px;
-  height: 40px;
+  height: 35px;
   left: 30px;
   top: 20px;
 
   font-family: Lato;
-  font-size: 12px;
-  line-height: 10px;
+  font-size: 14px;
+  line-height: 12px;
   text-align: center;
   letter-spacing: 0.2em;
   color: #F2F2F2;
@@ -95,7 +95,9 @@ body {
   transition: 0.3s;
   border: none;
 }
+.sidebar .heatmap .btn:visited {opacity: 1}
 .sidebar .heatmap .btn:focus {opacity: 1}
+.sidebar .heatmap .btn:active {opacity: 1}
 
 #toggle-sidebar {
   position: absolute;
