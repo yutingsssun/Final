@@ -1,0 +1,2657 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2384084,40.0643553 ]
+    },
+    "properties": {
+    "name":"Andorra Library",
+    "Location":"705 E Cathedral Rd",
+    "PhoneNumber":"215-685-2552 ",
+    "LocationType":"Library Branch ",
+    "SummerHours":"Tue., Thur., 12-8; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2415805,39.9457219 ]
+    },
+    "properties": {
+    "name":"Blanche A. Nixon/Cobbs Creek Library",
+    "Location":"5800 Cobbs Creek Pkwy",
+    "PhoneNumber":"215-685-1973",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.078621,40.0386524 ]
+    },
+    "properties": {
+    "name":"Bushrod Library",
+    "Location":"6304 Castor Ave",
+    "PhoneNumber":"215-685-1471 ",
+    "LocationType":"Library Branch",
+    "SummerHours":"Tue., Thur., 12-8; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0261488,40.1078013 ]
+    },
+    "properties": {
+    "name":"Bustleton Library",
+    "Location":"10199 Bustleton Ave",
+    "PhoneNumber":"215-685-0472",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1735557,39.9804968 ]
+    },
+    "properties": {
+    "name":"Cecil B Moore Library",
+    "Location":"2320 Cecil B Moore Ave",
+    "PhoneNumber":"215-685-2766",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 10-6; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.170544,39.95924 ]
+    },
+    "properties": {
+    "name":"Central Library",
+    "Location":"1901 Vine St",
+    "PhoneNumber":"215-686-5322",
+    "LocationType":"Main Library",
+    "SummerHours":"M-Th 9AM-9PM; F 9AM- 6PM; Sa 9AM-5PM; Su 1PM-5PM",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.191431,39.963923 ]
+    },
+    "properties": {
+    "name":"Charles L. Durham Library",
+    "Location":"3320 Haverford Ave",
+    "PhoneNumber":"215-685-7436",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 11-7; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.155274,39.937044 ]
+    },
+    "properties": {
+    "name":"Charles Santore Library",
+    "Location":"932 S 7th Street",
+    "PhoneNumber":"215-686-1766",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri. 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.209312,40.0777769 ]
+    },
+    "properties": {
+    "name":"Chestnut Hill Library",
+    "Location":"8711 Germantown Ave",
+    "PhoneNumber":"215-248-0977",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 1-9; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.150752,40.0471037 ]
+    },
+    "properties": {
+    "name":"David Cohen Ogontz Branch",
+    "Location":"6017 Ogontz Ave",
+    "PhoneNumber":"215-685-3566",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2403826,39.9059529 ]
+    },
+    "properties": {
+    "name":"Eastwick Neighborhood Library",
+    "Location":"2851 Island Ave",
+    "PhoneNumber":"215-685-4170",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1923641,40.014295 ]
+    },
+    "properties": {
+    "name":"Falls of Schuylkill Branch",
+    "Location":"3501 Midvale Ave",
+    "PhoneNumber":"215-685-2093",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1273016,39.9718703 ]
+    },
+    "properties": {
+    "name":"Fishtown Community Library",
+    "Location":"1217 E Montgomery Ave",
+    "PhoneNumber":"215-685-9990",
+    "LocationType":"Library Branch",
+    "SummerHours":"Tue., Thur., 12-8; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0819214,40.0767105 ]
+    },
+    "properties": {
+    "name":"Fox Chase Branch",
+    "Location":"501 Rhawn St",
+    "PhoneNumber":"215-685-0547",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0848847,40.015719 ]
+    },
+    "properties": {
+    "name":"Frankford Branch",
+    "Location":"4634 Frankford Ave",
+    "PhoneNumber":"215-685-1473",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 11-7; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1703179,39.9198811 ]
+    },
+    "properties": {
+    "name":"Fumo Family Library",
+    "Location":"2437 S Broad St",
+    "PhoneNumber":"215-685-1758",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon Wed.,. 12-8; Tue., Thur., 10-6;Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1305596,40.035031 ]
+    },
+    "properties": {
+    "name":"Greater Olney Branch",
+    "Location":"5501 N 5th St",
+    "PhoneNumber":"215-685-2846",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2495993,39.9706839 ]
+    },
+    "properties": {
+    "name":"Haddington Branch",
+    "Location":"446 N 65th St",
+    "PhoneNumber":"215-685-1970",
+    "LocationType":"Library Branch",
+    "SummerHours":"Tues, Thurs. 11-7; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2316551,39.967675 ]
+    },
+    "properties": {
+    "name":"Haverford Branch",
+    "Location":"5543 Haverford Ave",
+    "PhoneNumber":"215-685-1964",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0317276,40.0404044 ]
+    },
+    "properties": {
+    "name":"Holmesburg Branch",
+    "Location":"7810 Frankford Ave",
+    "PhoneNumber":"215-685-8756",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1523394,39.9502814 ]
+    },
+    "properties": {
+    "name":"Independence Library",
+    "Location":"18 S 7th St",
+    "PhoneNumber":"215-685-1633",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6;Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1760812,40.0340756 ]
+    },
+    "properties": {
+    "name":"Joseph E. Coleman Northwest Regional Library",
+    "Location":"68 W Chelten Ave",
+    "PhoneNumber":"215-685-2150",
+    "LocationType":"Main Library",
+    "SummerHours":"Tue., Wed., 12-8; Thur., 10-6; Fri., Sat., 10-5, Sun. 1-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.9734223,40.0839757 ]
+    },
+    "properties": {
+    "name":"Katharine Drexel Branch",
+    "Location":"11099 Knights Rd",
+    "PhoneNumber":"215-685-9383",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1326806,39.9846324 ]
+    },
+    "properties": {
+    "name":"Kensington Branch",
+    "Location":"104 W Dauphin St",
+    "PhoneNumber":"215-685-9996",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 10-6; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2182089,39.9420411 ]
+    },
+    "properties": {
+    "name":"Kingsessing Branch",
+    "Location":"1201 S 51st St",
+    "PhoneNumber":"215-685-2690",
+    "LocationType":"Library Branch",
+    "SummerHours":"Tue., Thur., 11-7; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1001629,40.0460524 ]
+    },
+    "properties": {
+    "name":"Lawncrest Branch",
+    "Location":"6098 Rising Sun Ave",
+    "PhoneNumber":"215-685-0549",
+    "LocationType":"Library Branch",
+    "SummerHours":"Tue., Thur., 12-8; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1640533,39.9621155 ]
+    },
+    "properties": {
+    "name":"Library for the Blind and Physically Handicapped",
+    "Location":"1500 Spring Garden St suite 230, Philadelphia, PA 19130",
+    "PhoneNumber":"215-683-3213",
+    "LocationType":"Library Branch",
+    "SummerHours":"M-F 9AM-5PM",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.14241,39.9927712 ]
+    },
+    "properties": {
+    "name":"Lillian Marrero Branch",
+    "Location":"601 W Lehigh Ave",
+    "PhoneNumber":"215-685-9794",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon, Wed., 11-7; Tues, Thurs., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1453293,40.0317922 ]
+    },
+    "properties": {
+    "name":"Logan Branch",
+    "Location":"1333 Wagner Ave",
+    "PhoneNumber":"215-685-9156",
+    "LocationType":"Library Branch",
+    "SummerHours":"Tue., Thur., 12-8; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1877872,40.0568179 ]
+    },
+    "properties": {
+    "name":"Lovett Branch",
+    "Location":"6945 Germantown Ave",
+    "PhoneNumber":"215-685-2095",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 1-9; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2250576,39.9574816 ]
+    },
+    "properties": {
+    "name":"Lucien E. Blackwell West Philadelphia Regional Library",
+    "Location":"125 S 52nd St",
+    "PhoneNumber":"215-685-7424",
+    "LocationType":"Main Library",
+    "SummerHours":"Tue., Wed., 12-8; Thur.,10-6; Fri., Sat., 10- 5, Sun. 1-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1188855,39.9948343 ]
+    },
+    "properties": {
+    "name":"McPherson Square Branch",
+    "Location":"601 E Indiana Ave",
+    "PhoneNumber":"215-685-9995",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 10-6; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1513976,40.0099974 ]
+    },
+    "properties": {
+    "name":"Nicetown-Tioga",
+    "Location":"3720 N Broad St",
+    "PhoneNumber":"215-685-9790",
+    "LocationType":"Library Branch",
+    "SummerHours":"Tue., Thur., 10-6; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0614917,40.0481284 ]
+    },
+    "properties": {
+    "name":"Northeast Regional Library ",
+    "Location":"2228 Cottman Ave",
+    "PhoneNumber":"215-685-0522",
+    "LocationType":"Main Library",
+    "SummerHours":"Tue., Wed., 1-9; Thur., 10-6; Fri., Sat., 10-5; Sun. 1-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1378434,40.0545894 ]
+    },
+    "properties": {
+    "name":"Oak Lane Library",
+    "Location":"6614 N 12th St",
+    "PhoneNumber":"215-685-2848",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2640177,39.9760281 ]
+    },
+    "properties": {
+    "name":"Overbrook Park Branch",
+    "Location":"7422 Haverford Ave",
+    "PhoneNumber":"215-685-0182",
+    "LocationType":"Library Branch",
+    "SummerHours":"Tues, Thurs. 11-7; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2409414,39.9204532 ]
+    },
+    "properties": {
+    "name":"Paschalville Branch",
+    "Location":"6942 Woodland Ave",
+    "PhoneNumber":"215-685-2662",
+    "LocationType":"Library Branch",
+    "SummerHours":"Tue., Thur., 11-7; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1732745,39.9494607 ]
+    },
+    "properties": {
+    "name":"Philadelphia City Institute",
+    "Location":"1905 Locust St",
+    "PhoneNumber":"215-685-6621",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6;Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1812739,39.9378897 ]
+    },
+    "properties": {
+    "name":"Queen Memorial Library",
+    "Location":"1201 S 23rd St",
+    "PhoneNumber":"215-685-1899",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 10-6; Tues., Thurs., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1468412,39.970127 ]
+    },
+    "properties": {
+    "name":"Ramonita de Rodriguez Branch",
+    "Location":"600 W Girard Ave",
+    "PhoneNumber":"215-686-1768",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon, Wed., 11-7; Tues, Thurs., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.108323,39.9828129 ]
+    },
+    "properties": {
+    "name":"Richmond Branch",
+    "Location":"2987 Almond St",
+    "PhoneNumber":"215-685-9992",
+    "LocationType":"Library Branch",
+    "SummerHours":"Tue., Thur., 12-8; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2182175,40.0366808 ]
+    },
+    "properties": {
+    "name":"Roxborough Branch",
+    "Location":"6245 Ridge Ave",
+    "PhoneNumber":"215-685-2550",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1688905,39.9291371 ]
+    },
+    "properties": {
+    "name":"South Philadelphia Branch",
+    "Location":"1700 S Broad St",
+    "PhoneNumber":"215-685-1866",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0452448,40.0253556 ]
+    },
+    "properties": {
+    "name":"Tacony Branch",
+    "Location":"6742 Torresdale Ave",
+    "PhoneNumber":"215-685-8755",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.18013,39.9196281 ]
+    },
+    "properties": {
+    "name":"Thomas F. Donatucci, Sr. Library",
+    "Location":"1935 Shunk St",
+    "PhoneNumber":"215-685-1755",
+    "LocationType":"Library Branch",
+    "SummerHours":"Tue., Thur. 12-8; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0158353,40.0568706 ]
+    },
+    "properties": {
+    "name":"Torresdale Branch",
+    "Location":"3079 Holme Ave",
+    "PhoneNumber":"215-685-0494",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1738424,40.0789239 ]
+    },
+    "properties": {
+    "name":"Wadsworth Branch",
+    "Location":"1500 Wadsworth Ave",
+    "PhoneNumber":"215-685-9293",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2024067,39.9537992 ]
+    },
+    "properties": {
+    "name":"Walnut Street West Branch",
+    "Location":"201 S 40th St",
+    "PhoneNumber":"215-685-7671",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0322539,40.0740136 ]
+    },
+    "properties": {
+    "name":"Welsh Road Branch",
+    "Location":"9233 Roosevelt Blvd",
+    "PhoneNumber":"215-685-0498",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1577016,40.0671685 ]
+    },
+    "properties": {
+    "name":"West Oak Lane Branch",
+    "Location":"2000 Washington Ln",
+    "PhoneNumber":"215-685-2843",
+    "LocationType":"Library Branch",
+    "SummerHours":"Tue., Thur., 12-8; Mon., Wed., 10-6; Fri., 10-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1503319,39.9215883 ]
+    },
+    "properties": {
+    "name":"Whitman Branch",
+    "Location":"200 Snyder Ave",
+    "PhoneNumber":"215-685-1754",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1774667,39.9967335 ]
+    },
+    "properties": {
+    "name":"Widener Branch",
+    "Location":"2808 W Lehigh Ave",
+    "PhoneNumber":"215-685-9799",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 10-6; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.233814,39.9950423 ]
+    },
+    "properties": {
+    "name":"Wynnefield Branch",
+    "Location":"5325 Overbrook Ave",
+    "PhoneNumber":"215-685-0298",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue, Thur., 10-6; Fri., 10-5",
+    "Recommended":"0",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.120667,40.0213243 ]
+    },
+    "properties": {
+    "name":"Wyoming Branch",
+    "Location":"231 E Wyoming Ave",
+    "PhoneNumber":"215-685-9158",
+    "LocationType":"Library Branch",
+    "SummerHours":"Mon., Wed., 12-8; Tue., Thur., 10-6; Fri., 10-5",
+    "Recommended":"1",
+    "Type":"Free Library",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1805027,40.0114927 ]
+    },
+    "properties": {
+    "name":"Abbotsford Community Center",
+    "Location":"3226 McMichael St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1497067,39.989764 ]
+    },
+    "properties": {
+    "name":"Fairhill Apartments Community Center",
+    "Location":"2443 N 11th St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1759246,40.0304888 ]
+    },
+    "properties": {
+    "name":"Germantown House",
+    "Location":"5457 Wayne Ave",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1559016,39.9656731 ]
+    },
+    "properties": {
+    "name":"Gladys B.Jacobs Community Center",
+    "Location":"1100 Fairmount Ave",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1953478,39.9318464 ]
+    },
+    "properties": {
+    "name":"Greater Grays Ferry Senior Center",
+    "Location":"3001 Moore St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.152396,39.9733714 ]
+    },
+    "properties": {
+    "name":"Harrison Plaza Community Center",
+    "Location":"1350 N 10th S",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1553787,39.9688478 ]
+    },
+    "properties": {
+    "name":"John F. Street Community Center",
+    "Location":"1100 Poplar St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1753472,39.9855062 ]
+    },
+    "properties": {
+    "name":"Johnson Homes Community Center",
+    "Location":"2500 W Norris St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.220461,39.964386 ]
+    },
+    "properties": {
+    "name":"Katie B. Jackson Community Center",
+    "Location":"400 N 50th St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2061384,39.9636273 ]
+    },
+    "properties": {
+    "name":"Mt Olivet Community Center",
+    "Location":"642 N 41st St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1710969,39.9876028 ]
+    },
+    "properties": {
+    "name":"Raymond Rosen",
+    "Location":"2301 Edgley St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1515741,39.9821053 ]
+    },
+    "properties": {
+    "name":"Norris Apartments Community Center",
+    "Location":"1939 N 11th St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0896612,40.0410488 ]
+    },
+    "properties": {
+    "name":"Oxford Village",
+    "Location":"6150 Algon Ave",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2437669,39.9185671 ]
+    },
+    "properties": {
+    "name":"Paschall Village",
+    "Location":"7200 Woodland Ave",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1454994,40.0404727 ]
+    },
+    "properties": {
+    "name":"Suffolk Manor",
+    "Location":"1416 Clearview St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1472181,39.9960326 ]
+    },
+    "properties": {
+    "name":"Warnock Community Center",
+    "Location":"2850 Germantown Ave",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1885272,39.9255337 ]
+    },
+    "properties": {
+    "name":"Wilson Park Senior Center",
+    "Location":"2500 Jackson St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1717358,39.9808211 ]
+    },
+    "properties": {
+    "name":"Bentley Hall Community Center",
+    "Location":"1710 N Croskey St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1897415,40.0495778 ]
+    },
+    "properties": {
+    "name":"Emlen Arms Community Center",
+    "Location":"6733 Emlen St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1646745,40.009364 ]
+    },
+    "properties": {
+    "name":"Plymouth Hall Community Center",
+    "Location":"2201 W Venango St",
+    "PhoneNumber":"",
+    "LocationType":"PHA Senior Sites",
+    "SummerHours":"",
+    "Recommended":"0",
+    "Type":"PHA Senior Sites",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0535365,40.0188593 ]
+    },
+    "properties": {
+    "name":"American Legion Playground",
+    "Location":"6201 Torresdale Ave",
+    "PhoneNumber":"215-685-8733",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.160442,39.981161 ]
+    },
+    "properties": {
+    "name":"Amos Playground",
+    "Location":"16th & Berks",
+    "PhoneNumber":"215-685-2708",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1711339,39.9420628 ]
+    },
+    "properties": {
+    "name":"Marian Anderson Recreation Center",
+    "Location":"17th & Fitzwater",
+    "PhoneNumber":"215-685-6594",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1782404,39.9776597 ]
+    },
+    "properties": {
+    "name":"Athletic Recreation Center",
+    "Location":"26th & Master",
+    "PhoneNumber":"215-685-2709",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1653236,40.0534193 ]
+    },
+    "properties": {
+    "name":"Awbury Recreation Center",
+    "Location":"Ardleigh & Haines",
+    "PhoneNumber":"215-685-2895",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2312243,39.9773826 ]
+    },
+    "properties": {
+    "name":"Baker Playground",
+    "Location":"Conestoga & Lansdowne",
+    "PhoneNumber":"215-685-0261",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1786547,39.9157652 ]
+    },
+    "properties": {
+    "name":"Barry Playground",
+    "Location":"18th & Bigler",
+    "PhoneNumber":"215-685-1886",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1562878,40.0417025 ]
+    },
+    "properties": {
+    "name":"Belfield Recreation Center",
+    "Location":"21st & Chew",
+    "PhoneNumber":"215-685-2220",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0678554,39.9995129 ]
+    },
+    "properties": {
+    "name":"Bridesburg Recreation Center",
+    "Location":"4625 Richmond Street",
+    "PhoneNumber":"215-685-1247",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2128176,39.9791517 ]
+    },
+    "properties": {
+    "name":"Carousel House",
+    "Location":"Belmont & North Concourse",
+    "PhoneNumber":"215-685-0163",
+    "LocationType":"Indoor Pool",
+    "SummerHours":"M-F 11AM-7PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1369786,40.0386756 ]
+    },
+    "properties": {
+    "name":"Cherashore Playground",
+    "Location":"10th & Chew",
+    "PhoneNumber":"215-685-2896",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1738727,39.93828 ]
+    },
+    "properties": {
+    "name":"Chew Playground",
+    "Location":"19th & Washington",
+    "PhoneNumber":"215-685-6596",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM ",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1174693,39.9815977 ]
+    },
+    "properties": {
+    "name":"Cione Playground",
+    "Location":"2600 Aramingo (at Lehigh)",
+    "PhoneNumber":"215-685-9880",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1680226,39.9656867 ]
+    },
+    "properties": {
+    "name":"Roberto Clemente Park",
+    "Location":"18th & Wallace",
+    "PhoneNumber":"215-685-2760",
+    "LocationType":"Sprayground",
+    "SummerHours":"11AM-7PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1130791,39.9840774 ]
+    },
+    "properties": {
+    "name":"Cohocksink Recreation Center",
+    "Location":"Cedar & Cambria",
+    "PhoneNumber":"215-685-9884",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1448073,39.97339 ]
+    },
+    "properties": {
+    "name":"Cruz Recreation Center",
+    "Location":"6th & Master",
+    "PhoneNumber":"215-685-2759",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1510722,39.9756629 ]
+    },
+    "properties": {
+    "name":"Dendy Recreation Center",
+    "Location":"10th & Oxford",
+    "PhoneNumber":"215-685-2763",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1512546,39.9667385 ]
+    },
+    "properties": {
+    "name":"East Poplar Playground",
+    "Location":"800-842 N. 8th Street",
+    "PhoneNumber":"215-685-1786",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1212826,40.0213875 ]
+    },
+    "properties": {
+    "name":"Feltonville Recreation Center",
+    "Location":"Ella & Wyoming",
+    "PhoneNumber":"215-685-9150",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1054012,40.0144914 ]
+    },
+    "properties": {
+    "name":"Ferko Playground",
+    "Location":"1101 E. Cayuga Street",
+    "PhoneNumber":"215-685-1224",
+    "LocationType":"Sprayground",
+    "SummerHours":"11AM-7PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2325645,39.9152177 ]
+    },
+    "properties": {
+    "name":"James Finnegan Playground",
+    "Location":"69th & Grovers",
+    "PhoneNumber":"215-685-4191",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.128042,39.971751 ]
+    },
+    "properties": {
+    "name":"Fishtown Recreation Center",
+    "Location":"E. Montgomery & Girard",
+    "PhoneNumber":"215-685-9885",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1572742,39.9230771 ]
+    },
+    "properties": {
+    "name":"Ford PAL Recreational Center",
+    "Location":"609 Snyder Ave",
+    "PhoneNumber":"215-683-1858",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0811706,40.073 ]
+    },
+    "properties": {
+    "name":"Fox Chase Playground",
+    "Location":"7901 Ridgeway Street",
+    "PhoneNumber":"215-685-0575",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.166871,39.9686968 ]
+    },
+    "properties": {
+    "name":"Francisville Playground",
+    "Location":"1750 Wiley Street",
+    "PhoneNumber":"215-685-2762",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1751495,39.9875932 ]
+    },
+    "properties": {
+    "name":"Hank Gathers Youth Access Center",
+    "Location":"25th & Diamond",
+    "PhoneNumber":"215-685-2710",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1372078,39.9729105 ]
+    },
+    "properties": {
+    "name":"Hancock Playground",
+    "Location":"Hancock & Master",
+    "PhoneNumber":"215-685-9886",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1462429,39.989178 ]
+    },
+    "properties": {
+    "name":"Hartranft Pool",
+    "Location":"8th & Cumberland",
+    "PhoneNumber":"215-685-2468",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 9-5",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.163494,39.938455 ]
+    },
+    "properties": {
+    "name":"Hawthorne Cultural Center/Ridgway Pool",
+    "Location":"1200 Carpenter Street",
+    "PhoneNumber":"215-685-1848",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0990289,39.9976936 ]
+    },
+    "properties": {
+    "name":"Heitzman Playground",
+    "Location":"2136 Castor Ave",
+    "PhoneNumber":"215-685-1244",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1483428,39.9306646 ]
+    },
+    "properties": {
+    "name":"Herron Playground",
+    "Location":"American & Reed",
+    "PhoneNumber":"215-685-1884",
+    "LocationType":"Sprayground",
+    "SummerHours":"11AM-7PM ",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2294922,40.0335758 ]
+    },
+    "properties": {
+    "name":"Hillside Recreation Center",
+    "Location":"Fountain & Fowler",
+    "PhoneNumber":"215-685-2595",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0931795,40.0302173 ]
+    },
+    "properties": {
+    "name":"Houseman Playground",
+    "Location":"802 E Godfrey Ave",
+    "PhoneNumber":"215-685-1240",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1438209,40.0174374 ]
+    },
+    "properties": {
+    "name":"Hunting Park Recreation Center",
+    "Location":"1101 W Hunting Park Ave",
+    "PhoneNumber":"215-685-9153",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0018833,40.0516668 ]
+    },
+    "properties": {
+    "name":"Jacobs Playground",
+    "Location":"Linden & Jackson",
+    "PhoneNumber":"215-685-8748",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0754128,40.0562467 ]
+    },
+    "properties": {
+    "name":"Jardel Recreation Center",
+    "Location":"Cottman & Pennway",
+    "PhoneNumber":"215-685-0596",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.9694591,40.1028683 ]
+    },
+    "properties": {
+    "name":"Junod Playground",
+    "Location":"Dunks Ferry & Mechanicsville",
+    "PhoneNumber":"215-685-9396",
+    "LocationType":"Sprayground",
+    "SummerHours":"11AM-7PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2080217,39.9791657 ]
+    },
+    "properties": {
+    "name":"Kelly Pool",
+    "Location":"4231 N. Concourse",
+    "PhoneNumber":"215-685-0174",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2111498,40.0293641 ]
+    },
+    "properties": {
+    "name":"Kendrick Recreation Center",
+    "Location":"Ridge & Pensdale",
+    "PhoneNumber":"215-685-2584",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.169916,39.981035 ]
+    },
+    "properties": {
+    "name":"Martin Luther King Recreation Center",
+    "Location":"22nd & Cecil B Moore",
+    "PhoneNumber":"215-685-2733",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2171391,39.9427697 ]
+    },
+    "properties": {
+    "name":"Kingsessing Recreation Center",
+    "Location":"50th & Chester",
+    "PhoneNumber":"215-685-2694",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.032984,40.1006948 ]
+    },
+    "properties": {
+    "name":"Lackman Playground",
+    "Location":"Chesworth & Bartlett",
+    "PhoneNumber":"215-685-0370",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2482111,39.9581444 ]
+    },
+    "properties": {
+    "name":"Cobbs Creek Recreation Center",
+    "Location":"Cobbs Creek & Walnut",
+    "PhoneNumber":"215-685-1995",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1010108,40.0454567 ]
+    },
+    "properties": {
+    "name":"Lawncrest Recreation Center",
+    "Location":"6000 Rising Sun",
+    "PhoneNumber":"215-685-0597",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 1PM- 6PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2110306,39.9622373 ]
+    },
+    "properties": {
+    "name":"Lee Cultural Center",
+    "Location":"4400 Haverford Ave",
+    "PhoneNumber":"215-685-7655",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 1PM- 6PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0396634,40.0423984 ]
+    },
+    "properties": {
+    "name":"Lincoln Pool",
+    "Location":"3201 Ryan Ave",
+    "PhoneNumber":"215-685-8751",
+    "LocationType":"Indoor Pool",
+    "SummerHours":"M-F 11AM-7PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1876658,39.9890371 ]
+    },
+    "properties": {
+    "name":"Mander Playground",
+    "Location":"33rd & Diamond",
+    "PhoneNumber":"215-685-3894",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1211991,40.0002686 ]
+    },
+    "properties": {
+    "name":"McVeigh Recreation Center",
+    "Location":"D & Ontario",
+    "PhoneNumber":"215-685-9896",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2155892,39.9662059 ]
+    },
+    "properties": {
+    "name":"Mill Creek Playground",
+    "Location":"4700 Brown Street",
+    "PhoneNumber":"215-685-0260",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.9908733,40.0675914 ]
+    },
+    "properties": {
+    "name":"Thomas Mitchell Playground",
+    "Location":"3700 Whitehall Lane",
+    "PhoneNumber":"215-685-9394",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1677784,39.9934204 ]
+    },
+    "properties": {
+    "name":"C.B. Moore Recreation Center",
+    "Location":"2020-50 W. Lehigh Ave",
+    "PhoneNumber":"215-685-9755",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2386538,39.9564793 ]
+    },
+    "properties": {
+    "name":"Morris Recreation Center",
+    "Location":"59th & Spruce",
+    "PhoneNumber":"215-685-1993",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.145951,40.0504785 ]
+    },
+    "properties": {
+    "name":"Morris Estate Recreation Center",
+    "Location":"1610 East Chelten",
+    "PhoneNumber":"215-685-2891",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1541732,39.915602 ]
+    },
+    "properties": {
+    "name":"Murphy Recreation Center",
+    "Location":"4th & Shunk",
+    "PhoneNumber":"215-685-1874",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.227808,39.93465 ]
+    },
+    "properties": {
+    "name":"Francis Myers Recreation Center",
+    "Location":"58th & Kingsessing",
+    "PhoneNumber":"215-685-2698",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0702405,40.0383408 ]
+    },
+    "properties": {
+    "name":"Max Myers Recreation Center",
+    "Location":"1601 Hellerman Street",
+    "PhoneNumber":"215-685-1242",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1437659,39.962825 ]
+    },
+    "properties": {
+    "name":"Northern Liberties Recreation Center",
+    "Location":"321 Fairmount Ave",
+    "PhoneNumber":"215-686-1785",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1833258,39.9461267 ]
+    },
+    "properties": {
+    "name":"O'Connor Pool",
+    "Location":"26th & South",
+    "PhoneNumber":"215-685-6593",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2264251,39.9825629 ]
+    },
+    "properties": {
+    "name":"Parkside Evans Playground",
+    "Location":"5300 Parkside Ave",
+    "PhoneNumber":"215-473-2517",
+    "LocationType":"Sprayground",
+    "SummerHours":"11AM-7PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1518866,39.985983 ]
+    },
+    "properties": {
+    "name":"Penrose Recreation Center",
+    "Location":"12th & Susquehanna",
+    "PhoneNumber":"215-685-2711",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0965198,40.0123071 ]
+    },
+    "properties": {
+    "name":"Piccoli Playground",
+    "Location":"4300 Castor Ave",
+    "PhoneNumber":"215-685-1249",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1793146,40.0317261 ]
+    },
+    "properties": {
+    "name":"Pickett Pool",
+    "Location":"Wayne & Chelten",
+    "PhoneNumber":"215-685-2196",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 9AM-5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1818604,40.0572095 ]
+    },
+    "properties": {
+    "name":"Pleasant Playground",
+    "Location":"6750 Boyer Street",
+    "PhoneNumber":"215-685-2230",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM ",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1518487,39.9339312 ]
+    },
+    "properties": {
+    "name":"Sacks Playground",
+    "Location":"4th & Washington",
+    "PhoneNumber":"215-685-1889",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0970795,39.9911123 ]
+    },
+    "properties": {
+    "name":"Samuel Recreation Center",
+    "Location":"2501 E. Tioga",
+    "PhoneNumber":"215-685-1246",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1086543,40.0017392 ]
+    },
+    "properties": {
+    "name":"Scanlon Ice Rink & Playground",
+    "Location":"J & Tioga",
+    "PhoneNumber":"215-685-9893",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1294542,40.0019505 ]
+    },
+    "properties": {
+    "name":"Schmidt Playground",
+    "Location":"Howard & Ontario",
+    "PhoneNumber":"215-685-9895",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2339592,39.9671457 ]
+    },
+    "properties": {
+    "name":"Shepard Recreation Center",
+    "Location":"5700 Haverford Ave",
+    "PhoneNumber":"215-685-1992",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1750177,40.0023658 ]
+    },
+    "properties": {
+    "name":"James Allen Shuler Playground",
+    "Location":"27th & Clearfield",
+    "PhoneNumber":"215-685-9750",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM ",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0932384,40.0217701 ]
+    },
+    "properties": {
+    "name":"Simpson Recreation Center",
+    "Location":"1010 Arrott Street",
+    "PhoneNumber":"215-685-1223",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1871852,39.9259628 ]
+    },
+    "properties": {
+    "name":"Smith Playground",
+    "Location":"24th & Jackson",
+    "PhoneNumber":"215-685-1898",
+    "LocationType":"Sprayground",
+    "SummerHours":"11AM-7PM ",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.197806,39.93615 ]
+    },
+    "properties": {
+    "name":"Stinger Square Playground",
+    "Location":"32nd & Dickinson",
+    "PhoneNumber":"215-685-1882",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2409783,39.9817632 ]
+    },
+    "properties": {
+    "name":"Tustin Playground",
+    "Location":"5901 W. Columbia Ave",
+    "PhoneNumber":"215-685-0258",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.189118,39.9315856 ]
+    },
+    "properties": {
+    "name":"Vare Recreation Center",
+    "Location":"2600 Morris Street",
+    "PhoneNumber":"215-685-1876",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0491613,40.0277059 ]
+    },
+    "properties": {
+    "name":"Vogt Recreation Center",
+    "Location":"4131 Unruh Ave",
+    "PhoneNumber":"215-685-8753",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1329171,39.9882948 ]
+    },
+    "properties": {
+    "name":"Waterloo Playground",
+    "Location":"Waterloo & Cumberland",
+    "PhoneNumber":"215-685-9891",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.168449,40.0452401 ]
+    },
+    "properties": {
+    "name":"Waterview Recreation Center",
+    "Location":"Rittenhouse & McMahon",
+    "PhoneNumber":"215-685-2229",
+    "LocationType":"Sprayground",
+    "SummerHours":"11AM-7PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1601045,40.0496037 ]
+    },
+    "properties": {
+    "name":"Lonnie Young Recreation Center",
+    "Location":"Chelten & Ardleigh",
+    "PhoneNumber":"215-685-2236",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1183807,40.034168 ]
+    },
+    "properties": {
+    "name":"Ziehler Playground",
+    "Location":"B & Olney",
+    "PhoneNumber":"215-685-9145",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.149248,39.9967697 ]
+    },
+    "properties": {
+    "name":"12th & Cambria Recreation Center",
+    "Location":"12th & Cambria",
+    "PhoneNumber":"215-685-9780",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 11AM-7PM, Sa-Su 12PM- 5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2009359,39.9659544 ]
+    },
+    "properties": {
+    "name":"39th and Olive Playground",
+    "Location":"39th & Olive",
+    "PhoneNumber":"",
+    "LocationType":"Outdoor Pool",
+    "SummerHours":"M-F 9AM-5PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2097065,39.9421463 ]
+    },
+    "properties": {
+    "name":"48th & Woodland Playground",
+    "Location":"1414 S 47th Street",
+    "PhoneNumber":"215-685-2692",
+    "LocationType":"Sprayground",
+    "SummerHours":"11AM-7PM",
+    "Recommended":"0",
+    "Type":"Pools and Spraygounds",
+    "AirConditioner":"0"
+    }
+  }
+]
+}
